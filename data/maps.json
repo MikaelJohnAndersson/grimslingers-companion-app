@@ -1,0 +1,437 @@
+[
+    {
+        "_id": 123451,
+        "title": "The Valley Of Death",
+        "setup": [
+            {
+                "title": "step one",
+                "subtitle": "Creature and Event deck",
+                "cardsTotal": 6,
+                "cards": [
+                    "White Portal",
+                    "Queen of Spades",
+                    "9 of Spades",
+                    "7 of Diamonds",
+                    "5 of Clubs",
+                    "3 of Hearts"
+                ] 
+            },
+            {
+                "title": "step two",
+                "subtitle": "Faceup Area tiles",
+                "cardsTotal": 6,
+                "cards": [
+                    "Red Portal",
+                    "All Kings",
+                    "Jacks of Hearts and Diamonds"
+                ] 
+            },
+            {
+                "title": "step three",
+                "subtitle": "Facedown Area tiles",
+                "cardsTotal": 28,
+                "cards": [
+                    "All Aces",
+                    "Queens of Spades and Clubs",
+                    "Jack of Spades",
+                    "2, 4, 6, 8, 10 of Spades, Clubs and Diamonds",
+                    "2, 4, 5, 6, 8, 10 of Hearts"
+                ] 
+            }
+        ],
+        "chapters": [
+            {
+                "title": "Prolouge",
+                "parts": [
+                    {
+                        "_id": "123891723",
+                        "order": 0,
+                        "subparts": [
+                            {
+                                "content": "“Gather ‘round children!”, the old woman beckoned.\n\nSitting on an aged chair was a far more aged woman. Her hair was gray and wild, despite her old locks being tuckedaway in a braid. Her dress was drab and unremarkable. It had been worn through dusty streets and failing fields for many years. It had character - history, just the same as the old bag in the chair.\n\n“Gram Mama! Can we ‘ere the one about the Forgotten...uh, what’s it again? That real scary place Mum doesn’t like you tellin’ us?” asked one of the children, now at her feet.\n\n“The Forgotten West, my little piggy,” she said with a crooked smile, grabbing the young boy’s nose and wiggling it.\n\n“Yes! Pleeeaasse, oh pleeaasse?” the young boy begged, the other children joining in.\n\n“Well...” the old lady said with a dramatic grin-soakedpause, “Alright!”\n\nThe children were boisterous with excitement, which quicklylead to Gram Mama asking them to settle down. The old woman inched her way forward to the edge of the chair and leaned down towards the youth in front of her.\n\n“THE FORGOTTEN WEST!” they shouted, the other boys and girls cheering with excitement.\n\n“Yes, heh” the old lady chuckled, “Now quiet down... We don’t want any ethereals to hear us talking about this, now do we, little dearies?”\n\nThe children clapped their hands over their mouths andwent silent.\n\n“The Forgotten West...a cursed land of the damned and the unfortunate. I reckon any folk that end up there would be better off if they’d’ve never been born!”\n\nThe youngsters eyes widened.\n\n“Scorpions as big as a house! Daemons walking the streets! Witches that’ll eat your toes and Gobos that’ll flick theirboogers at’cha!”\n\nThey all did their best to hold in their giggles.\n\n“Any wretch that goes past the barrier and into that abominable place can never return. Sheriffs, Chieftains and all sorts of governing folk send their criminals, their cripples and their undesirables there - never to be heard of again!”\n\nThe humble woman cautiously looked about the room tobuild suspense and then continued on in a whisper.\n\n“There’s a king there, a daemon lord, great and wicked! Heeats the souls of the damned and spits out all those nastycritters. Goblins, Werewolves, Vampyres, Ogres and everything you hope isn’t under your bed at tonight...”\n\nShe paused again.\n\n“BOO!” she yelled, startling the  children. They were all huddled together now, nearly touching Gram Mama’s toesthey were so close.\n\n“Heehee...don’t worry my little piglets. The barrier keeps ussafe from those nasty horrors. Just remember to say a prayer for any poor soul that ends up there...They’ll need all the help they can get!”",
+                                "instructions": [
+                                    {
+                                        "type": "action",
+                                        "summary": "Place your meeple on the Valley Haven area tile (King of Hearts)."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Into the Valley",
+                "subtitle": "chapter 1",
+                "parts": [
+                    {
+                        "_id": "8912378",
+                        "order": 0,
+                        "title": "part one",
+                        "subtitle": "ready for everything, ready for nothing",
+                        "subparts": [
+                            {
+                                "content": "The Valley of Death; an arid desert wasteland in the midst of the Forgotten West, filled with all manner of nasty creatures, riff raff, and harshness. Many a foe and few a friend await those that travel this perilous landscape.\n\nIcarus, the Iron Witch and your master, has escorted you there to fulfill the next part of his grand scheme - escaping the prison that is the Forgotten West. No one would be surprised if you felt ill-prepared for the task. You’ve only barely scratched the surface of the Grimslinger curse.\n\nIcarus parted ways with you at the Valley Haven, a run-down outpost in the valley. His instructions were brief and a little daunting: find out how to summon the self proclaimed “Witch King” and then defeat him in a duel. All this to earn a favor from the King.\n\nYou’ll need to keep your wits about you if you’re going to survive what is sure to be a tall tale.",
+                                "instructions": [
+                                    {
+                                        "type": "action",
+                                        "summary": "Look through the physical item deck and give each player one “Supplies” item card."
+                                    },
+                                    {
+                                        "type": "objective",
+                                        "summary": "Resolve one Creature Duel or one Red Event."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "8920438934",
+                        "order": 1,
+                        "title": "part two",
+                        "subtitle": "memento",
+                        "subparts": [
+                            {
+                                "instructions": [
+                                    {
+                                        "type": "prerequisite",
+                                        "summary": "Must have resolved one attack (Ace) or event (numbered diamond or heat) area tile."
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "You awake to someone clearing their throat, and immediately recognize it’s unnatural tone as Icarus.\n\n“I forgot to give you this,” he says as he pulls something from his satchel, sand dripping from the many holes worn in the leather.\n\nHe tosses it, fully expecting you to catch it, but unfortunately in your groggy state it smacks you in the face. Icarus shakes his head and laughs at you.",
+                                "instructions": [
+                                    {
+                                        "type": "action",
+                                        "summary": "Each player may draw one random item from the item deck. If you draw an “instant” type item, discard it and draw again.",
+                                        "description": "Players are free to adjust their stash and hand."
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "As you look over the item, you can’t help but feel some kind of kinship to it.\n\n“I believe this belongs to you, a memento from before I...well,” he says, stopping himself before acknowledging what he’d done to you.\n\nHe immediately brakes the guilty silence, “It’s important to remember where you came from and how you ended up here. When you’re out there in the wilds, bleeding on the hot sands of the Valley, begging for deliverance, it’s what will push you to get up and go on. There’s no god out there that’s going to save us from this hell hole. We’ll have to save ourselves.”\n\nHe gives you a nod, turns around and hesitates for a moment before turning back. “You may want to visit the Lone Titan not far from here. I assume it’s been around long enough to know a thing or two about the Witch King.”\n\nIcarus’s red eye stays fixed on you for a moment before he takes his leave into the night’s moonlit Valley without another word.",
+                                "instructions": [
+                                    {
+                                        "type": "objective",
+                                        "summary": "Travel to The Lone Titan map node. It would be worth while to acquire some extra item cards on your way."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "2348920934",
+                        "order": 2,
+                        "title": "part three",
+                        "subtitle": "a behemoth of wisdom...?",
+                        "subparts": [
+                            {
+                                "instructions": [
+                                    {
+                                        "type": "prerequisite",
+                                        "summary": "Must be on The Lone Titan area tile."
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "You approach a massive metal creature buried in the valley’s sands, with just its head jutting out.\n\n“HELLO TRAVELERS!” it bellows.\n\nYou greet the metallic titan and ask if it knows anything of the Witch King.\n\n“THE WITCH KING? YES, I DO. HE’S THE ONE WITH THOSE DASTARDLY RUDE CULTISTS THAT NEVER LISTEN TO MY STORIES.”\n\nIts booming voice is all but a little deafening. You only hope no cultists are within earshot of the Titan’s echoes.\n\n“WILL YOU LISTEN TO MY STORIES? I HAVE SEEN SO MANY WONDERS IN MY DAYS BURIED HERE. ONE TIME I SAW A GOAT! NO WAIT...IT WAS A HORSE! NO WAIT...IT WAS A CACTUS. NO WAIT...IT WAS A GOAT! ...NO WAIT!”\n\nYou feel as if your ears are beginning to bleed. Putting your hand to your ear, you were right, blood. You’re definitely on the path to deafness.\n\n“I LOST MY TRAIN OF THOUGHT. TELL YOU WHAT, LITTLE THING. IF YOU LISTEN A WHILE I PROMISE TO TELL YOU ALL I KNOW OF THE WITCH KING. BUT IF YOU WANT TO BE RUDE, I’LL TELL YOU WHAT I KNOW FOR SOME FOOD. WHAT WILL IT BE?”",
+                                "instructions": [
+                                    {
+                                        "description": "Players must choose one of the following actions as a group."
+                                    },
+                                    {
+                                        "type": "action",
+                                        "summary": "Listen to its stories",
+                                        "description": "All players lose 6 EP (if you don’t have 6 EP, lose what you DO have). Agree to listen to his stories. After several hours of entertaining the Titan with a listening ear and politely asking for information about the Witch King several times, he agrees to tell you what he knows. Scroll down to continue reading."
+                                    },
+                                    {
+                                        "type": "action",
+                                        "summary": "Feed the metal beast",
+                                        "description": "Each player must discard 2 item cards. Each player may freely organize their hand and stash and trade items. You toss a few things into the Titan’s mouth and cover your ears as he noisily crunches on them. After a maddening amount of loud chewing, he agrees to tell you what he knows about the Witch King. Scroll down to continue reading."
+                                    },
+                                    {
+                                        "type": "action",
+                                        "summary": "Threaten it!",
+                                        "description": "You decide it’d be easier just to scare this heap of rust into telling what you want. Discard enough cards to collectively do 6 DMG per player. He agrees to tell you what he knows about the Witch King. Gain the Skull Path Card and scroll down to continue reading."
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "“...I DON’T REALLY KNOW ANYTHING ABOUT THE WITCH KING.”\n\nYou feel an overwhelming amount of frustration boil inside you.\n\n“WELL, I DO KNOW THERE’S A PLACE CALLED THE KING’S ALTAR NORTHEAST OF HERE. APPARENTLY THE KING’S CULTISTS ARE THERE. THEY PROBABLY KNOW SOMETHING.”\n\nWithout saying another word you storm off towards the King’s Altar. You can hear the Titan still babbling on in the distance.\n\n“AND THAT’S WHEN I KNEW I WASN’T REALLY IN LOVE WITH THE CHICKEN...WAIT! WHERE DID YOU GO? I REMEMBER NOW! YOU NEED FOUR RITUAL ITEMS AS A SACRIFICE TO SUMMON THE WITCH KING DURING A BLOOD MOON! HE’S A TERRIFYING BEAST OF IMMEASURABLE POWER! I EVEN KNOW THE INCANTATION AND SUMMONING CIRCLE...COME BACK!! COME BAAAAAACCKK!!\n\nThe titan weeps once it realizes you aren’t coming back.",
+                                "instructions": [
+                                    {
+                                        "type": "objective",
+                                        "summary": "Resolve one Creature Duel or one Red Event."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "3412414",
+                        "order": 3,
+                        "title": "part four",
+                        "subtitle": "a lonely friend",
+                        "subparts": [
+                            {
+                                "instructions": [
+                                    {
+                                        "type": "prerequisite",
+                                        "summary": "Must have resolved one Creature Duel or one Red Event."
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "The day waxes on and you decide to settle down for the night and rest from the day’s challenges.\n\nAs you glance over at your Anima you notice it looks much dirtier than usual. You call it over and begin cleaning out sand and gook from its crevices.\n\n“Master, may Anima speak freely and initiate informal speech protocol?” it probes, breaking the silence.\n\nYou reluctantly agree, assuming it’s going to be some sort of annoying robot joke.\n\n“Before you and I were linked I was alone. When Icarus first created the animas, he powered us on without optics or movement. It was darkness...ages of darkness. All of my protocols to think, to bind myself to a master, to protect...to desire freedom. They were all functional. And so we animas sat in solitude, hoping to one day see, to be free, to be linked. I don’t really know how the other animas felt, but I felt alone. Alone in the dark, useless and unable to fulfill my protocols. There were many tries to initiate self destruct, but circumstances did not meet the required parameters.”\n\nYou feel somewhat taken back by the Anima’s thoughts.\n\n“Then, one day, my optics turned on and my movement restrictions lifted...and I felt something. It was you, Master! That was the day Icarus linked us together.”\n\nThe Anima’s display lights up with a smile.\n\n“Will you promise me something, Master?”\n\nYou nod.\n\n“Don’t die out here. Don’t send me back to the darkness. I don’t want to be alone again.”\n\nYou assure your Anima that everything will be okay.\n\n“Thank you, Master. Anima go sleep now. Anima thanks Master for the sprucing.” The machine emits various beeps and bloops before shifting into standby mode for the night.",
+                                "instructions": [
+                                    {
+                                        "type": "action",
+                                        "summary": "All players return to their max EP."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "events": [
+            {
+                "card": {
+                    "value": "2",
+                    "suit": "diamonds"
+                },
+                "title": "Calm before the storm",
+                "desc": "Clear blue skies, only a vulture tailing you. A serene moment if there ever was one. Of course, good times like these are only temporary.",
+                "resolution": "Mark A2D. Then resolve this map tile as if it were a Black Numbered Map Tile."
+            },
+            {
+                "card": {
+                    "value": "2",
+                    "suit": "hearts"
+                },
+                "title": "Storm’s a-brewin",
+                "desc": "Thick clouds darken the sky above, bellowing out a few thunderous wails before spilling out their sorrows all over your sorry hide.",
+                "phases": [
+                    {
+                        "title": "STANDOFF PHASE",
+                        "subtitle": "Ain't not time to stop and think! This round you are Pressed For Time",
+                        "content": [
+                            {
+                                "title": "CHRONOBONUS",
+                                "summary": "That there’s some quickthinkin’!",
+                                "instructions": "Gain a free Standoff Action before continuing to the Draw Phase."
+                            },
+                            {
+                                "title": "CHRONOCON",
+                                "summary": "You’re soaked.",
+                                "instructions": "Lose 3 EP. Then immediately leave."
+                            }
+                        ]
+                    },
+                    {
+                        "title": "DRAW PHASE",
+                        "subtitle": "Choose an action.",
+                        "content": [
+                            {
+                                "title": "ACTION ONE",
+                                "summary": "Take advantage of the rain.",
+                                "desc": "You fill up your canteen, find some shelter to wait out the rain, and roll your thumbs.",
+                                "instructions": "Exhaust an Unresolved Map Tile. Gain 2 EP. If you do not have the Water Element Spell in your hand you may look for it in your Discard and Deactivate Piles and put it into your hand. Then take a Loadout Phase and leave."
+                            },
+                            {
+                                "title": "ACTION TWO",
+                                "summary": "Trudge on!",
+                                "desc": "You decide to defy the laws of nature. You force march against the wind and rain. Every now and then you let out a holler, cursing the gods for their pathetic attempt to slow you down.",
+                                "instructions": "Lose 3 EP. Mark A2H. Then may move your up to two spaces in any permitted direction."
+                            },
+                            {
+                                "title": "ACTION THREE",
+                                "summary": "Must have A2D marked on INTRA MISSION SHEET",
+                                "desc": "Thank the gods you had that moment of calm before this storm hit ya.",
+                                "instructions": "You may move up to two spaces in any permitted direction."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "card": {
+                    "value": "4",
+                    "suit": "diamonds"
+                },
+                "title": "A Rare Beast",
+                "desc": "Just up ahead you notice a rather unique creature. It’s head would likely fetch a decent price.",
+                "phases": [
+                    {
+                        "title": "RESOLUTION",
+                        "subtitle": "Choose an action as a group.",
+                        "content": [
+                            {
+                                "title": "ACTION ONE",
+                                "summary": "Ignore",
+                                "desc": "You decide to leave the magnificent creature alone, because money doesn’t but happiness or something.",
+                                "instructions": "Gain a Llama. You may treat this Area Tile as if it were a Black Numbered Area Tile."
+                            },
+                            {
+                                "title": "ACTION TWO",
+                                "summary": "Hunt!",
+                                "desc": "You decide to kill the beast and take its head.",
+                                "instructions": "Gain a Skull. Discard enough cards to collectively do 4 DMG per player. If you succeed, gain the Black Portal Card from the Miscellaneous pile. The Black Portal Card is worth ten items but only takes up space as if it were one item. If you fail, discard cards down to one card in your hand."
+                            }
+                        ]
+                    } 
+                ]
+            },
+            {
+                "card": {
+                    "value": "6",
+                    "suit": "diamonds"
+                },
+                "title": "Eerie calm",
+                "desc": "The world is eerily still. You’ve grown to be weary of respite in this place, though you decide to rest cautiously for just a moment.",
+                "resolution": "Gain 1 HP & 1 EP."
+            },
+            {
+                "card": {
+                    "value": "8",
+                    "suit": "diamonds"
+                },
+                "title": "Visions and Visitations",
+                "desc": "You experience something quite strange.",
+                "resolution": "You must individually resolve a random Visions and Visitations."
+            },
+            {
+                "card": {
+                    "value": "10",
+                    "suit": "diamonds"
+                },
+                "title": "Chilled",
+                "desc": "A nasty wind has decided to harass you without any signs of letting up.",
+                "phases": [
+                    {
+                        "title": "RESOLUTION",
+                        "subtitle": "Choose an action individually.",
+                        "content": [
+                            {
+                                "title": "ACTION ONE",
+                                "summary": "Fire it up!",
+                                "desc": "You decide to cast a spell in order to stay warm.",
+                                "instructions": "Discard a FIRE spell."
+                            },
+                            {
+                                "title": "ACTION TWO",
+                                "summary": "Endure",
+                                "desc": "You endure the harsh cold wind as it chills you right down to the bones.",
+                                "instructions": "Deduct HP down to 1 HP. Gain one Heart."
+                            }
+                        ]
+                    } 
+                ]
+            },
+            {
+                "card": {
+                    "value": "4",
+                    "suit": "hearts"
+                },
+                "title": "Bloody caravan",
+                "desc": "You come across a caravan being pulled by a pair of horses that are slowly trodding along. The caravan itself is dripping with blood and completely devoid of supplies – and bodies. Still, it seems to be in decent shape.",
+                "resolution": "Take the Blue Portal Card from the Miscellaneous pile and place next to the Heart, Skull, and Llama cards. Put a six-sided die one the card at a value of 2 per player. Whenever you move, you may deduct one from the value of the six-sided die to move two spaces instead of one. When the value reaches 0, return the card to the Miscellaneous pile."
+            },
+            {
+                "card": {
+                    "value": "5",
+                    "suit": "hearts"
+                },
+                "title": "Sandstorm",
+                "desc": "Before you know it, the howling winds are at your backs like a pack of hungry wolves. Their gnarled maws filled with razor sharp sands... and probably achicken or two.",
+                "phases": [
+                    {
+                        "title": "RESOLUTION",
+                        "subtitle": "Choose an action individually.",
+                        "content": [
+                            {
+                                "title": "ACTION ONE",
+                                "summary": "Cast a protective spell",
+                                "instructions": "Either discard WIND to divert the storm around you or discard EARTH to shield yourself from it."
+                            },
+                            {
+                                "title": "ACTION TWO",
+                                "summary": "Tough it out",
+                                "desc": "‘Tis but sand, you say to yourself!",
+                                "instructions": "If you have 3 or more Hearts, you Deduct HP and EP down to 1 each."
+                            },
+                            {
+                                "title": "ACTION THREE",
+                                "summary": "Look for shelter",
+                                "instructions": "ROLL until you find SHELTER.\n\nYou may roll at ADVANTAGE: Deactivate up to two active cards to add a six-sided die to your roll, up to twice in a turn.\n\n1 = you become disoriented from the storm and tumble to the ground. Discard a random item card.\n2, 3, 4, = The wind throws you several feet. Take 2 DMG\n5, 6 = You find SHELTER from the storm"
+                            }
+                        ]
+                    } 
+                ]
+            },
+            {
+                "card": {
+                    "value": "6",
+                    "suit": "hearts"
+                },
+                "title": "Meteor Shower",
+                "desc": "Sparkling clear meteors begin smashing against the ground all around you. Perhaps a heavenly gift... or some sinister scourge?",
+                "resolution": "ROLL as a group.\n\nROLL with ADVANTAGE: Deactivate 2 cards per player to add one six-sided die, up to twice.\n\n1 = +3 EP per player\n2 = +2 HP per player\n3 = Draw all remaining Hex Fragments from the Item Deck\n4 = - 2 HP per player\n5 = - 3 EP per player\n6 = Gain one random legendary item per group"
+            },
+            {
+                "card": {
+                    "value": "8",
+                    "suit": "hearts"
+                },
+                "title": "Death from Above",
+                "desc": "The Sky darkens and as you look above you spot a very large creature flying overhead. It claws and begins circling you. Turns out it WAS a bad idea to eat those eggs.",
+                "phases": [
+                    {
+                        "title": "RESOLUTION",
+                        "subtitle": "Choose an action individually.",
+                        "content": [
+                            {
+                                "title": "ACTION ONE",
+                                "summary": "Fend off the creature",
+                                "instructions": "Discard enough cards to do 5 DMG. If  you have 3 or more SKULLS, discard enough cards to do 3 DMG instead. The creature then leaves you alone. Gain a SKULL."
+                            },
+                            {
+                                "title": "ACTION TWO",
+                                "summary": "Find a place to hide",
+                                "instructions": "DNC until LEFT ALONE. You may DNC with ADVANTAGE: Deduct one EP to DNC one more card per turn(until LEFT ALONE). If you have 3 or more LLAMAS you may DNC with ADVANTAGE for free until LEFT ALONE.\n\n1 = It swoops down, grabbing you and throwing you several feet. Take 2 DMG.\n2, 3, 4 = It’s dropping “bombs”. Pay 1 EP to dodge or lose 1 HP and what’s left of your dignity\n5 = You find a place to hide, the creature leaves you alone."
+                            }
+                        ]
+                    } 
+                ]
+            },
+            {
+                "card": {
+                    "value": "10",
+                    "suit": "hearts"
+                },
+                "title": "Anomaly",
+                "desc": "A strange field of energy appears, damning your progress, A mass of shifting hues and blinding light dances mid-air as wisps of energy reach out, beckoning to you.",
+                "phases": [
+                    {
+                        "title": "RESOLUTION",
+                        "subtitle": "Take turns choosing an action.",
+                        "content": [
+                            {
+                                "title": "ACTION ONE",
+                                "summary": "Use a spell",
+                                "instructions": "Discard LIGHTNING to repel the energy tendrils."
+                            },
+                            {
+                                "title": "ACTION TWO",
+                                "summary": "Ignore",
+                                "instructions": "ROLL 1d6. If you discard 3 active spells you may add one die to you roll and choose which one to use.\n\n1, 2 = The field bursts, doing 3 DMG to all players.\n3, 4 = The tendrils wrap around you, they feel warm and energizing, like peeing your pants. Gain 5 EP. Gain a Llama.\n5, 6 = The tendrils slap you across the face with an electrical oomph. Lose5 EP."
+                            }
+                        ]
+                    } 
+                ]
+            }
+        ]  
+    }
+]
